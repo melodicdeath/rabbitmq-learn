@@ -1,0 +1,3 @@
+rootProject.name = 'rabbitmq-learn'
+include 'chapter01'
+
