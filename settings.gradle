@@ -1,3 +1,4 @@
 rootProject.name = 'rabbitmq-learn'
 include 'chapter01'
+include 'chapter02'
 

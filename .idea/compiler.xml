@@ -4,6 +4,12 @@
     <bytecodeTargetLevel>
       <module name="chapter01_main" target="1.8" />
       <module name="chapter01_test" target="1.8" />
+      <module name="chapter02_main" target="1.8" />
+      <module name="chapter02_test" target="1.8" />
+      <module name="idea-projects-rabbitmq-learn_main" target="1.8" />
+      <module name="idea-projects-rabbitmq-learn_test" target="1.8" />
+      <module name="rabbitmq-learn-chapter01_main" target="1.8" />
+      <module name="rabbitmq-learn-chapter01_test" target="1.8" />
       <module name="rabbitmq-learn_main" target="1.8" />
       <module name="rabbitmq-learn_test" target="1.8" />
     </bytecodeTargetLevel>
