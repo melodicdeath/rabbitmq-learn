@@ -6,10 +6,18 @@
       <module name="chapter01_test" target="1.8" />
       <module name="chapter02_main" target="1.8" />
       <module name="chapter02_test" target="1.8" />
+      <module name="chapter03_main" target="1.8" />
+      <module name="chapter03_test" target="1.8" />
+      <module name="chapter04_main" target="1.8" />
+      <module name="chapter04_test" target="1.8" />
+      <module name="chapter05_main" target="1.8" />
+      <module name="chapter05_test" target="1.8" />
       <module name="idea-projects-rabbitmq-learn_main" target="1.8" />
       <module name="idea-projects-rabbitmq-learn_test" target="1.8" />
       <module name="rabbitmq-learn-chapter01_main" target="1.8" />
       <module name="rabbitmq-learn-chapter01_test" target="1.8" />
+      <module name="rabbitmq-learn-chapter02_main" target="1.8" />
+      <module name="rabbitmq-learn-chapter02_test" target="1.8" />
       <module name="rabbitmq-learn_main" target="1.8" />
       <module name="rabbitmq-learn_test" target="1.8" />
     </bytecodeTargetLevel>

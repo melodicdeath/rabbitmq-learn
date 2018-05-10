@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01.iml" group="chapter01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01/chapter01.iml" group="chapter01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01/chapter01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01/chapter01_main.iml" group="chapter01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01/chapter01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01/chapter01_test.iml" group="chapter01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02.iml" group="chapter02" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/chapter02_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/chapter02_main.iml" group="chapter02" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/chapter02_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/chapter02_test.iml" group="chapter02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter03.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter03.iml" group="chapter03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter03/chapter03_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter03/chapter03_main.iml" group="chapter03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter03/chapter03_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter03/chapter03_test.iml" group="chapter03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter04.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter04.iml" group="chapter04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter04/chapter04_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter04/chapter04_main.iml" group="chapter04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter04/chapter04_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter04/chapter04_test.iml" group="chapter04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter05.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter05.iml" group="chapter05" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter05/chapter05_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter05/chapter05_main.iml" group="chapter05" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter05/chapter05_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter05/chapter05_test.iml" group="chapter05" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/idea-projects-rabbitmq-learn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/idea-projects-rabbitmq-learn_main.iml" group="rabbitmq-learn" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/idea-projects-rabbitmq-learn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/idea-projects-rabbitmq-learn_test.iml" group="rabbitmq-learn" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq-learn.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01/rabbitmq-learn-chapter01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01/rabbitmq-learn-chapter01_main.iml" group="chapter01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter01/rabbitmq-learn-chapter01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter01/rabbitmq-learn-chapter01_test.iml" group="chapter01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02.iml" group="chapter02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02_main.iml" group="chapter02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/rabbitmq-learn-chapter02_test.iml" group="chapter02" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq-learn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq-learn_main.iml" group="rabbitmq-learn" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq-learn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq-learn_test.iml" group="rabbitmq-learn" />
     </modules>
